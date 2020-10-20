@@ -1,0 +1,17 @@
+{
+  "name": "qa_test",
+  "version": "1.0.0",
+  "description": "to docupace",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Lozovenko Vladislavs",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.4.3"
+  },
+  "devDependencies": {
+    "chromedriver": "^86.0.0"
+  }
+}
